@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
-    "@prisma/client": "5.22.0",
+    "@prisma/client": "6.1.0",
     "@radix-ui/react-alert-dialog": "^1.1.2",
     "@radix-ui/react-avatar": "^1.1.1",
     "@radix-ui/react-collapsible": "^1.1.1",
@@ -63,7 +63,7 @@
     "@types/react-dom": "npm:types-react-dom@19.0.0-rc.1",
     "eslint": "^9.16.0",
     "eslint-config-next": "15.0.3",
-    "prisma": "^5.22.0",
+    "prisma": "^6.1.0",
     "ts-node": "^10.9.2"
   },
   "prisma": {
